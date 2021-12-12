@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    background-color: #04AA6D;
+    border-radius: 5px;
+    width: 450px;
+
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin: 30px auto 60px auto;
+}
+
+h3{
+    margin: 10px auto 20px auto;
+
+    font-size: 25px;
+    text-transform: uppercase;
+    
+}
+
+
+#crypto_container{
+    margin: 10px; 
+}
+
+.cryptos {
+    background-color: #AED5DF;
+    border-radius: 5px;
+    
+
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 300px;
+    
+    text-align: center;
+}
+
+p {
+    
+    font-size: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.evo p{
+    font-size: 20px;
+    margin: 10px auto 10px auto;
+   
+}
+
+div#arrow {
+
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    width: 150px;
+  
+}
+
+img:hover{
+    box-shadow: 1px 1px gray;
+    border-radius: 5px;
+}
+
+
+
